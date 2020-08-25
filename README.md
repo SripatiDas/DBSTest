@@ -11,6 +11,10 @@ For further reference, please consider the following sections:
 
 ### Pre-requisite
 Java 8 and maven should be set up in the system
+
+### Git Clone
+git clone https://github.com/SripatiDas/DBSTest.git
+
 ### Please do clean build
 mvn clean install
 ### Go to Target directory in command prompt and run following command
